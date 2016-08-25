@@ -1,0 +1,19 @@
+{
+  "name": "amz-scraper",
+  "version": "0.0.1",
+  "description": "My simple amz scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonkoshkurik/amz-scraper.git"
+  },
+  "author": "Tonkoshkurik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonkoshkurik/amz-scraper/issues"
+  },
+  "homepage": "https://github.com/tonkoshkurik/amz-scraper#readme"
+}
